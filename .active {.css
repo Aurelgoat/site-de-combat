@@ -1,0 +1,17 @@
+
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  body.dark-theme {
+    background-color: black;
+    color: white;
+  }
